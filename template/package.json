@@ -1,0 +1,13 @@
+{
+  "name" : "ig-template-cpage",
+  "type" : "fhir.template",
+  "license" : "CC0-1.0",
+  "description" : "CPage FHIR IG Template",
+  "author" : "Nicolas Moreau",
+  "canonical" : "https://github.com/NicolasMoreauCPage/ig-template-cpage",
+  "base" : "fhir.base.template",
+  "dependencies" : {
+    "fhir.base.template": "current"
+  },
+  "version" : "0.1.0"
+}
