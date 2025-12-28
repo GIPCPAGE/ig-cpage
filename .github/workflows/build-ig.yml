@@ -15,11 +15,15 @@ jobs:
     - name: Checkout repository
       uses: actions/checkout@v4
 
-    - name: Setup Java
-      uses: actions/setup-java@v4
+    - name: Setup Ruby and Jekyll
+      uses: ruby/setup-ruby@v1
       with:
-        java-version: '17'
-        distribution: 'temurin'
+        ruby-version: '3.1'
+        bundler-cache: true
+
+    - name: Install Jekyll
+      run: |
+        gem install jekyll bundler
 
     - name: Cache FHIR Publisher
       id: cache-publisher
