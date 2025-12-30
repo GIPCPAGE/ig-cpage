@@ -1,7 +1,7 @@
 {
   "resourceType": "ImplementationGuide",
-  "id": "ig-fhir-template-cpage",
-  "url": "https://www.cpage.fr/ig/ig-fhir-template-cpage/ImplementationGuide/ig-fhir-template-cpage",
+  "id": "ig-cpage-fhir-template",
+  "url": "https://www.cpage.fr/ig/ig-cpage-fhir-template/ImplementationGuide/ig-cpage-fhir-template",
   "version": "0.1.0",
   "name": "IGFHIRTemplateCPage",
   "title": "Template IG FHIR CPage",
@@ -40,7 +40,7 @@
       ]
     }
   ],
-  "packageId": "ig-fhir-template-cpage",
+  "packageId": "ig-cpage-fhir-template",
   "fhirVersion": [
     "4.0.1"
   ],
