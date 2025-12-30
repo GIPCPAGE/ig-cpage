@@ -1,0 +1,11 @@
+{
+  "http://unstats.un.org/unsd/methods/m49/m49.htm" : null,
+  "urn:iso:std:iso:3166" : {
+    "server" : "http://tx.fhir.org/r4",
+    "filename" : "cs-62bfda08-e94a-40ea-8094-a0f75b12eebb.json"
+  },
+  "urn:iso:std:iso:3166:-2" : {
+    "server" : "http://tx.fhir.org/r4",
+    "filename" : "cs-cae50a29-1148-46b2-be1c-22bbee414488.json"
+  }
+}
