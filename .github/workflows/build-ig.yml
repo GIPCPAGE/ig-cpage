@@ -15,6 +15,17 @@ jobs:
     - name: Checkout repository
       uses: actions/checkout@v4
 
+    - name: Install Node.js
+      uses: actions/setup-node@v4
+      with:
+        node-version: '20'
+
+    - name: Install SUSHI
+      run: npm install -g fsh-sushi
+
+    - name: Run SUSHI
+      run: sushi
+
 
     - name: Setup Ruby and Jekyll
       uses: ruby/setup-ruby@v1
