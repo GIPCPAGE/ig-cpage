@@ -1,19 +1,10 @@
-<<<<<<< HEAD
-id: ig-fhir-doc-cpage
-canonical: https://www.cpage.fr/ig/ig-fhir-doc-cpage
-=======
 id: ig-fhir-template-cpage
 canonical: https://www.cpage.fr/ig/ig-fhir-template-cpage
->>>>>>> 9a65bcb (Alignement du template : logo CPage via URL officielle dans le header)
-name: IG FHIR Doc CPage
+name: IG FHIR Template CPage
 status: draft
 version: 0.1.0
 date: 2025-12-30
-<<<<<<< HEAD
-title: Guide documentaire IG FHIR CPage
-=======
-title: Guide documentaire CPage des guides d'implémentaion FHIR
->>>>>>> 9a65bcb (Alignement du template : logo CPage via URL officielle dans le header)
+title: Template IG FHIR CPage
 publisher:
   name: CPage
   url: https://www.cpage.fr
@@ -21,76 +12,22 @@ contact:
   - name: CPage
     telecom:
       - system: email
-<<<<<<< HEAD
         value: contact@cpage.fr
 description: >-
-  Ce guide propose une documentation complète sur la création, la publication et la maintenance des guides d’implémentation FHIR, à destination de la communauté de l’entreprise.
-=======
-        value: nicolas.moreau@cpage.fr
-        use: work
-description: >-
-  Ce guide propose une documentation complète sur la création, la publication et la maintenance des guides d’implémentation FHIR, produit par le GIP CPage.
-status: draft
-version: 0.1.0
->>>>>>> 9a65bcb (Alignement du template : logo CPage via URL officielle dans le header)
+  Template d'un IG FHIR CPage.
 fhirVersion: 4.0.1
 copyrightYear: 2026
 releaseLabel: ci-build
 jurisdiction: urn:iso:std:iso:3166#FR "FRANCE"
 
 parameters:
-<<<<<<< HEAD
   shownav: true
 
 dependencies:
 
-=======
-  shownav: 'true'
-  
-dependencies:
-  hl7.fhir.fr.core: 2.1.0
->>>>>>> 9a65bcb (Alignement du template : logo CPage via URL officielle dans le header)
-
 pages:
   index.md:
     title: Accueil
-<<<<<<< HEAD
-  introduction.md:
-    title: Introduction
-  quickstart.md:
-    title: Prise en main rapide
-  structure-ig.md:
-    title: Structure d’un IG
-  structure-pages-menu.md:
-    title: Structure des pages & menu
-  outils.md:
-    title: Outils et technologies
-  bonnes-pratiques.md:
-    title: Bonnes pratiques
-  publication-validation.md:
-    title: Publication et validation
-  faq.md:
-    title: FAQ
-  liens-utiles.md:
-    title: Liens utiles
-  annexes.md:
-    title: Annexes
 
 menu:
   "Accueil": index.html
-  "Introduction": introduction.html
-  "Prise en main rapide": quickstart.html
-  "Structure":
-    "Structure d’un IG": structure-ig.html
-    "Pages & menu": structure-pages-menu.html
-  "Outils et technologies": outils.html
-  "Bonnes pratiques": bonnes-pratiques.html
-  "Publication & validation": publication-validation.html
-  "FAQ": faq.html
-  "Liens utiles": liens-utiles.html
-  "Annexes": annexes.html
-=======
-
-menu:
-    Accueil: index.html
->>>>>>> 9a65bcb (Alignement du template : logo CPage via URL officielle dans le header)
