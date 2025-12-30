@@ -49,6 +49,9 @@ pages:
   installation.md:
     title: Installation de Sushi et Jekyll
 
+  structure-menu-pages.md:
+    title: Déclarer pages & menu
+
 menu:
   Accueil: index.html
   Introduction: introduction.html
@@ -63,4 +66,6 @@ menu:
   Annexes: annexes.html
 
   Installation: installation.html
+
+  "Déclarer pages & menu": structure-menu-pages.html
 
