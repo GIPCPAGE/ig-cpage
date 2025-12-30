@@ -24,7 +24,7 @@ parameters:
   shownav: true
 
 dependencies:
-  hl7.fhir.fr.core: 2.1.0
+
 
 pages:
   index.md:
