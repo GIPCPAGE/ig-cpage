@@ -17,7 +17,7 @@
 
 ## 2. Installer Ruby et Jekyll en standalone
 
-1. Télécharger Ruby portable (ex : https://github.com/oneclick/rubyinstaller2/releases → assets → ruby-<version>-x64-mingw-ucrt.7z)
+1. Télécharger Ruby portable (ex : https://github.com/oneclick/rubyinstaller2/releases → assets → ruby-[version]-x64-mingw-ucrt.7z)
 2. Extraire dans `C:\Users\<votre_user>\ruby` et ajouter à votre PATH :
 	```cmd
 	set PATH=C:\Users\<votre_user>\ruby\bin;%PATH%
