@@ -1,5 +1,5 @@
-id: ig-fhir-template-cpage
-canonical: https://www.cpage.fr/ig/ig-fhir-template-cpage
+id: ig-cpage-fhir-template
+canonical: https://www.cpage.fr/ig/ig-cpage-fhir-template
 name: IG FHIR Template CPage
 status: draft
 version: 0.1.0
