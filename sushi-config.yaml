@@ -1,5 +1,5 @@
-id: ig-cpage-general-template
-canonical: https://www.cpage.fr/ig/ig-cpage-general-template
+id: ig-cpage
+canonical: canonical: https://www.cpage.fr/interoperabilite/fhir/
 name: IG Template CPage
 status: draft
 version: 0.1.0
