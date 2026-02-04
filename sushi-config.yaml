@@ -1,5 +1,5 @@
 id: ig-cpage
-canonical: canonical: https://www.cpage.fr/interoperabilite/fhir/
+canonical: https://www.cpage.fr/interoperabilite/fhir/
 name: IG Template CPage
 status: draft
 version: 0.1.0
@@ -35,5 +35,5 @@ menu:
   "Accueil": index.html
   Ressources de conformité: artifacts.html
   Documentations: 
-    Documentation des IGs: new-tab hhttps://www.cpage.fr/ig/ig-fhir-doc-cpage/ImplementationGuide/ig-fhir-doc-cpage/
+    Documentation des IGs: new-tab hhttps://www.cpage.fr/interoperabilite/fhir/ig-doc-cpage/
     Téléchargements: downloads.html
